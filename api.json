@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 7.00,
+        "id": 1,
+        "title": "Bocadin",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/bocadin.jpg"
+    },
+    {
+        "precio": 12.00,
+        "id": 2,
+        "title": "Duvalin",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/duvalin.jpg"
+    },
+    {
+        "precio": 23.00,
+        "id": 3,
+        "title": "M&M's",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/emenems.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 4,
+        "title": "Gomitas",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/gomitas.jpg"
+    },
+    {
+        "precio": 59.01,
+        "id": 5,
+        "title": "Huevos Pelones Cafe",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/huevito%20kinder.jpg"
+    },
+    {
+        "precio": 12.00,
+        "id": 6,
+        "title": "mapazpan",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/mazapan.jpg"
+    },
+    {
+        "precio": 16.00,
+        "id": 7,
+        "title": "MilkyWay",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/milk%20way.jpg"
+    },
+    {
+        "precio": 24.00,
+        "id": 8,
+        "title": "Paleta Payaso",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/paleta%20payaso.jpg"
+    },
+    {
+        "precio": 49.00,
+        "id": 9,
+        "title": "Pelon Pelo Rico",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/pelon%20pelo%20ico.jpg"
+    },
+    {
+        "precio": 15.00,
+        "id": 10,
+        "title": "Pulparindo",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/pulparindo.jpg"
+    },
+    {
+        "precio": 12.00,
+        "id": 11,
+        "title": "Rocka Leta",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/rocaleta.jpg"
+    },
+    {
+        "precio": 13.00,
+        "id": 12,
+        "title": "SNICKERS",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/snickers.jpg"
+    }
+]
